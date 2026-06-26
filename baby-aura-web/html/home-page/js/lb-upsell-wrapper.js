@@ -1,0 +1,1 @@
+!function(e){if(e.location.pathname.includes("/orders/")||e.location.pathname.includes("/checkouts/")){var s=document.createElement("script");s.defer=!0,s.src=`https://upsell-app.logbase.io/lb-upsell.js?shop=${Shopify.shop}`,document.getElementsByTagName("head")[0].appendChild(s)}}(window);
