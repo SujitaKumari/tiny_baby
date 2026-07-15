@@ -1,0 +1,25 @@
+<div class="header-search__popular-searches js-header-popular-searches">
+<div class="header-popular-categories__title text-cta">Popular searches</div>
+<ul class="popular-searches">
+<li class="popular-searches__item">
+<a href="/search?q=School+Bags">
+				            School Bags
+				          </a>
+</li>
+<li class="popular-searches__item">
+<a href="/search?q=Diapers">
+				            Diapers
+				          </a>
+</li>
+<li class="popular-searches__item">
+<a href="/search?q=Lunch+Box">
+				            Lunch Box
+				          </a>
+</li>
+<li class="popular-searches__item">
+<a href="/search?q=Baby+Clothes">
+				            Baby Clothes
+				          </a>
+</li>
+</ul>
+</div>
